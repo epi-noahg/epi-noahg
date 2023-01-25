@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![epi-noahg's stats](https://github-readme-stats.vercel.app/api?username=epi-noahg&count_private=true&show_icons=true&theme=transparent)
+
 <!--
 **epi-noahg/epi-noahg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
